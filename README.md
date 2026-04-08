@@ -64,7 +64,10 @@ While it does not implement formal architectural patterns like MVC or layered ar
 
 ## Screenshots
 
-![App Preview](Resources/Screenshot2026-02-06160118.png)
+<p align="center">
+  <img src="Resources/Screenshot2026-02-06160118.png" width="600"/>
+</p>
+
 
 ## Future Improvements
 
