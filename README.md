@@ -64,7 +64,7 @@ While it does not implement formal architectural patterns like MVC or layered ar
 
 ## Screenshots
 
-![App Preview](Resources/Screenshot%2026-02-06%160118.png)
+![App Preview](Resources/Screenshot2026-02-06160118.png)
 
 ## Future Improvements
 
